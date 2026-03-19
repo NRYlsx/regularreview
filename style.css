@@ -46,7 +46,8 @@ th, td {
   cursor: default;
 }
 .today {
-  color: rgb(171, 194, 174) !important;
+  color: rgb(255, 255, 255) !important;
+  background-color: #003366;
 }
 .reviewed {
   background-color: #3399ff;
